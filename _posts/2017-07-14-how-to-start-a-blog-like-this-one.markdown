@@ -2,7 +2,6 @@
 layout: post
 title:  How to start a blog similar to this one
 date:   2017-07-14 00:37:58 -0700
-categories: jekyll update
 ---
 
 Steps:

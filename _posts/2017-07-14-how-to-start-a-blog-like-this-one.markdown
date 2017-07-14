@@ -22,7 +22,7 @@ jekyll new .
 ```
 bundle exec jekyll serve
 ```
-* Once the pages look good, push the changes to git.
+* Once the pages look good, push the changes to [GitHub].
 ```
 git add --all
 git commit -m "Initial Comit"
